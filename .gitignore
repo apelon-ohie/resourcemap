@@ -19,6 +19,7 @@ dump.rdb
 REVISION
 VERSION
 coverage/*
+config/database.yml
 config/settings.yml
 config/guisso.yml
 spec/integration/screenshots/*
